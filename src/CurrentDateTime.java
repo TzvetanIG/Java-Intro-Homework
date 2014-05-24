@@ -11,6 +11,7 @@ public class CurrentDateTime {
 		System.out.println(dateToString.format(currentDate));
 		System.out.printf("%tF - %<tT new row2", currentDate);
 		klgdjlfgjdj
+		new row
 		System.out.printf("%tF - %<tT", currentDate);
 		
 	}
