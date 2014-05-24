@@ -9,9 +9,7 @@ public class CurrentDateTime {
 		SimpleDateFormat dateToString = new SimpleDateFormat("dd/MM/yyyy - HH:mm:ss");
 
 		System.out.println(dateToString.format(currentDate));
-		new row
-		System.out.printf("%tF - %<tT", currentDate);
-		new row1
+
 	}
 
 }
