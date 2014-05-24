@@ -1,5 +1,5 @@
 import java.util.Date;
-import java.text.SimpleDateFormat;;
+import java.text.SimpleDateFormat;
 
 
 public class CurrentDateTime {
